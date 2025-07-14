@@ -1,0 +1,3 @@
+function chaoMung() {
+    alert("Cảm ơn bạn đã bấm nút! Chúc bạn học web vui vẻ!");
+}

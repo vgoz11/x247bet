@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang Web Demo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Xin chào!</h1>
+    <p>Đây là trang web demo đầu tiên của bạn.</p>
+    <button onclick="chaoMung()">Bấm vào tôi</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
